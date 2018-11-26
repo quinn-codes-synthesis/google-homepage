@@ -34,7 +34,7 @@
 
 #main {
   text-align: center;
-  padding-top: 109px;
+  padding-top: 90px;
   font-family: arial, sans-serif;
 }
 
@@ -78,7 +78,7 @@ input:focus {
 
 #main-buttons-div {
   display: block;
-  padding-top: 18px;
+  padding-top: 6px;
 }
 
 .search-button {
@@ -88,7 +88,7 @@ input:focus {
   font-size: 13px;
   font-weight: bold;
   height: 36px;
-  margin: 11px 4px;
+  margin: 0px 4px;
   padding: 0px 16px;
   display: inline-block;
   border: solid;
@@ -108,8 +108,8 @@ input:focus {
 }
 
 #footer-bar {
-  display: block;
   position: absolute;
+  display: block;
   bottom: 0;
   left: 0;
   right: 0;
